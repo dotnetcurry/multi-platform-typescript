@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "moduleResolution":"classic",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "declaration":true,
+        "target":"es3",
+        "strictNullChecks": false
+    }
+}

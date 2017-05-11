@@ -1,0 +1,6 @@
+namespace company{
+    export namespace organization{
+
+        ///{}
+    }
+}

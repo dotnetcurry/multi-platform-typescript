@@ -1,0 +1,11 @@
+{
+    "extends": "./tsconfig.base",
+    "compilerOptions":{
+        "declarationDir": "./dest/global",
+        "outDir":"./dest/global",
+         "module": "none"
+    },
+    "include":[
+        "proc/global/**/*.*"
+    ]
+}

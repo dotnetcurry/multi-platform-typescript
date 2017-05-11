@@ -1,0 +1,8 @@
+/// <reference path="./teams.ts" />
+namespace company{
+    export namespace organization{
+        let Team = organization.Team;
+        let Person = organization.Person;
+        ///{}
+    }
+}

@@ -1,0 +1,4 @@
+import {Person, Team} from "./teams"
+export {Person, Team}
+///{}
+

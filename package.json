@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "uglify-js": "^2.8.12"
+  }
+}

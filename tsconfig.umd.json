@@ -1,0 +1,11 @@
+{
+    "extends": "./tsconfig.base",
+    "compilerOptions":{
+        "declarationDir": "./dest/umd",
+        "outDir":"./dest/umd",
+        "module": "umd"
+    },
+    "include":[
+        "proc/umd/**/*.*"
+    ]
+}
